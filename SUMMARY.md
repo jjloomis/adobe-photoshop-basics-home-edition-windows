@@ -7,7 +7,7 @@
 ## Installing Photoshop on your PC
 
 * [Checking if your computer meets minimum system requirements](installing-photoshop-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
-* Installing Photoshop
+* [Installing Photoshop](installing-photoshop-on-your-pc/installing-photoshop.md)
 
 ## Resizing, rotating, and cropping
 
