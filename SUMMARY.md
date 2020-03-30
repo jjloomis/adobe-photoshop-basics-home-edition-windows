@@ -4,6 +4,11 @@
 
 * [Introduction](README.md)
 
+## Installing Photoshop on your PC
+
+* [Checking if your computer meets minimum system requirements](installing-photoshop-on-your-pc/checking-if-your-computer-meets-minimum-system-requirements.md)
+* Installing Photoshop
+
 ## Resizing, rotating, and cropping
 
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
