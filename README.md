@@ -1,5 +1,6 @@
-# Adobe Photoshop CC 2017 Basics
-Adobe Photoshop CC 2015: Just the Basics. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+# Adobe Photoshop 2020 Basics \| Home Edition \(Windows\)
+
+Adobe Photoshop 2020 Basics \| Home Edition \(Windows\). Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## About
 
