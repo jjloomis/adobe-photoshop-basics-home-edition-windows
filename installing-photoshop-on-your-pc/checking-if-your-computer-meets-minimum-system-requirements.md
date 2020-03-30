@@ -7,3 +7,8 @@
 5. To see the amount of space available on your computer, press **Windows E** \(on keyboard--**Windows** key is between **Ctrl** and **Alt**.\)
 6. Click **This PC** \(on left.\)
 7. The amount of space available will be visible under the **C: **drive.
+
+![](/assets/pc-specs.png)
+
+
+
