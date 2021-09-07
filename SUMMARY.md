@@ -4,6 +4,7 @@
 
 ## Resizing, rotating, and cropping
 
+* [Connecting to your class folder](resizing-rotating-and-cropping/connecting-to-your-class-folder.md)
 * [Creating a project folder](resizing-rotating-and-cropping/creating-a-project-folder.md)
 * [Opening Photoshop](resizing-rotating-and-cropping/opening-photoshop.md)
 * [Creating a work area with specific dimensions](resizing-rotating-and-cropping/creating-a-work-area-with-specific-dimensions.md)
